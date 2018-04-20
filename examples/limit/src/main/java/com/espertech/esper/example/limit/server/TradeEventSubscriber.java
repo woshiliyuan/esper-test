@@ -5,10 +5,6 @@ package com.espertech.esper.example.limit.server;
 
 import com.espertech.esper.example.limit.TradeEvent;
 
-/**
- * @author jojo
- * 
- */
 public class TradeEventSubscriber {
 	public void update(String ticker) {
 //		if (EsperCEPProvider.sleepListenerMillis > 0) {

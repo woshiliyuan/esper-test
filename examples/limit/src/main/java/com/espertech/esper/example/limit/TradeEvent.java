@@ -39,8 +39,6 @@ public class TradeEvent {
 
     private long time;//ms
     private final long inTime;
-    
-    //added by jojo
     private String eventRelNo;
     private long tradeAmount;
     private String custId;
